@@ -1,0 +1,56 @@
+.box {
+    border-radius:5px 5px 0 0;
+    border:1px solid #c0ab84;
+    width:1190px;
+    height:44px;
+    margin:0 auto;
+    background-color: #c0ab84;}
+.box .navigation dt{
+    float: left;
+    width: 80px;
+    height: 44px;
+    line-height: 44px;
+    font-size: 18px;
+    color: white;
+    display:block;
+    margin: 0px;
+
+}
+.box dl dt a{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    font-size: 14px;
+}
+.box2{
+
+    border:1px solid #c0ab84;
+    width: 1190px;
+    height: 650px;
+    margin:0 auto;
+    background-color: #ffffff;
+
+}
+
+.photo-nav {
+    width: 1190px;
+    height: 650px;
+}
+.photo-nav tr td img{
+    border-radius:5px;
+    padding-left:20.7px;
+}
+.photo-nav tr td p{
+    padding-left: 20.7px;
+}
+.photo-name{
+    font-size: 22px;
+}
+.photo-note{
+    color: darkgray;
+}
+.photo-money{
+    font-size: 25px;
+    color: #c0ab84;
+}
